@@ -1,6 +1,6 @@
 ### Sentiment Analysis
 
-<img width="598" alt="image" src="https://raw.githubusercontent.com/avinashalapati09/dsc680project1/Sentimentanalysis.png">
+<img width="598" alt="image" src="https://raw.githubusercontent.com/avinashalapati09/portfolio/project1/Sentimentanalysis.png">
 
 
 Natural Language Processing (NLP) is a hotbed of research in data science these days and one of the most common applications of NLP is sentiment analysis. From opinion polls to creating entire marketing strategies, this domain has completely reshaped the way businesses work, which is why this is an area every data scientist must be familiar with.
@@ -12,7 +12,7 @@ finally use these feature sets to train models and identify the sentiments of th
 
 ### Business Problem
 
-<img width="332" alt="image" src="https://raw.githubusercontent.com/avinashalapati09/dsc680project1/businessproblem.png">
+<img width="332" alt="image" src="https://raw.githubusercontent.com/avinashalapati09/portfolio/project1/businessproblem.png">
 
 Sentiment analysis can be defined as a process that automates mining of attitudes, opinions, views and emotions from text, speech, tweets and database sources through Natural Language Processing (NLP). Sentiment analysis involves classifying opinions in text into categories like "positive" or "negative”. It's also referred as subjectivity analysis, opinion mining, and appraisal extractiThe words opinion, sentiment, view and belief are used interchangeably but there are differences between them.
 
@@ -26,7 +26,7 @@ A good use case is to identify a customer’s perception for a product, this is 
 
 ### Approach
 
-<img width="612" alt="image" src="https://raw.githubusercontent.com/avinashalapati09/dsc680project1/DATACLEANING.png">
+<img width="612" alt="image" src="https://raw.githubusercontent.com/avinashalapati09/portfolio/project1/DATACLEANING.png">
 
 
 The dataset provided is the Sentiment140 Dataset which consists of 1,600,000 tweets that have been extracted using the Twitter API. The various columns present in the dataset are: 
@@ -51,7 +51,7 @@ The second phase of the system will be to cleanse the data collected, this will 
 
 To reach the ultimate goal, there was a need to clean up the individual tweets. I used a concept known as "Tokenization" in NLP. It is a method of splitting a sentence into smaller units called "tokens" to remove unnecessary elements. Another technique worthy of mention is "Lemmatization". This is a process of returning words to their "base" form. A simple illustration is shown below.
 
-![image](https://raw.githubusercontent.com/avinashalapati09/dsc680project1/main/DATACLASSIFICATION.png)
+![image](https://raw.githubusercontent.com/avinashalapati09/portfolio/project1/main/DATACLASSIFICATION.png)
 
 
 Machine learning techniques require representing the key features of text or documents for processing. These key features are considered as feature vectors which are used for the classification task. Some examples feature that have been reported in literature are: 
@@ -72,7 +72,7 @@ This is expected to be the most difficult part of the project; it will entail lo
 To get the most common words used, I made use of the POS-tag (Parts of Speech tagging) module in the NLTK library. Using the WordCloud library, one can generate a Word Cloud based on word frequency and superimpose these words on any image. In this case, I used the Twitter logo and Matplotlib to display the image. The Word Cloud shows the words with higher frequency in bigger text size while the "not-so" common words are in smaller text sizes. 			
 
 
-![image](https://raw.githubusercontent.com/avinashalapati09/dsc680project1/main/positivesentiment.png)
+![image](https://raw.githubusercontent.com/avinashalapati09/portfolio/project1/main/positivesentiment.png)
 
 
 ### Data Analysis
