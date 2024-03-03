@@ -1,6 +1,6 @@
 ### Sentiment Analysis
 
-<img width="598" alt="image" src="https://raw.githubusercontent.com/avinashalapati09/portfolio/project1/Sentimentanalysis.png">
+<img width="598" alt="image" src="https://raw.githubusercontent.com/avinashalapati09/portfolio/main/project1/Sentimentanalysis.png">
 
 
 Natural Language Processing (NLP) is a hotbed of research in data science these days and one of the most common applications of NLP is sentiment analysis. From opinion polls to creating entire marketing strategies, this domain has completely reshaped the way businesses work, which is why this is an area every data scientist must be familiar with.
@@ -12,7 +12,7 @@ finally use these feature sets to train models and identify the sentiments of th
 
 ### Business Problem
 
-<img width="332" alt="image" src="https://raw.githubusercontent.com/avinashalapati09/portfolio/project1/businessproblem.png">
+<img width="332" alt="image" src="https://raw.githubusercontent.com/avinashalapati09/portfolio/main/project1/businessproblem.png">
 
 Sentiment analysis can be defined as a process that automates mining of attitudes, opinions, views and emotions from text, speech, tweets and database sources through Natural Language Processing (NLP). Sentiment analysis involves classifying opinions in text into categories like "positive" or "negative”. It's also referred as subjectivity analysis, opinion mining, and appraisal extractiThe words opinion, sentiment, view and belief are used interchangeably but there are differences between them.
 
@@ -26,7 +26,7 @@ A good use case is to identify a customer’s perception for a product, this is 
 
 ### Approach
 
-<img width="612" alt="image" src="https://raw.githubusercontent.com/avinashalapati09/portfolio/project1/DATACLEANING.png">
+<img width="612" alt="image" src="https://raw.githubusercontent.com/avinashalapati09/portfolio/main/project1/DATACLEANING.png">
 
 
 The dataset provided is the Sentiment140 Dataset which consists of 1,600,000 tweets that have been extracted using the Twitter API. The various columns present in the dataset are: 
