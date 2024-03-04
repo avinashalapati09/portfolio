@@ -1,5 +1,5 @@
 # Recurrent Neural Network(LSTM)  with Keras Framework
-In this project using recurrent neural network,Google opening stock price for month January(2017) is predicted.
+In this project using recurrent neural network,Google opening stock price from the month of January(2017) till 2022 is predicted.
 Last 5 year's data of Google stock price is used for analysis.
 
 ## About RNN
