@@ -41,7 +41,7 @@ Link: https://github.com/avinashalapati09/portfolio/tree/main/NoShow
 
 # Project 6: AirlineSafetyPrediction
 
-Description: This project aims to assure the audience about airline safety through a 3-minute presentation, blog post, and executive presentation. The diliverables of this project were ensured through a Power BI dashboard explaining the data behind multiple incidences. Furthermore, this project aims to show how the public can be notified.
+Description: This project aims to assure the audience about airline safety through a 3-minute presentation, blog post, and executive presentation. The deliverables of this project were ensured through a Power BI dashboard explaining the data behind multiple incidences. Furthermore, this project aims to show how the public can be notified.
 
 Link: https://github.com/avinashalapati09/portfolio/tree/main/airlinesafetydataset
 
@@ -51,7 +51,7 @@ Description: This project explains about predicting Bankruptcy of firm and helpi
 Link: https://github.com/avinashalapati09/portfolio/tree/main/banckruptcyprediction
 
 # Project 8: CreditRiskLending
-Description: The project explains Credit based lending for individual customets based on several factors: credit score, credit age, hard checks. 
+Description: The project explains Credit based lending for individual customers based on several factors: credit score, credit age, hard checks. 
 
 Link: https://github.com/avinashalapati09/portfolio/tree/main/Creditrisklending
 
