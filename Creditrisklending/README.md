@@ -44,7 +44,7 @@ Follow the below instructions to execute this project succesfully:
 
 ## Authors
 
-- *Raghu Raman Nanduri* 
+- *Avinash Alapati* 
 
 
 ## Acknowledgments
