@@ -1,18 +1,18 @@
 ### Movie Recommendation System
 
-![image](https://raw.githubusercontent.com/avinashalapati09/portfolio/main/project2/image1.png)
+![image](https://raw.githubusercontent.com/avinashalapati09/portfolio/main/MovieRecommendation/image1.png)
 
-### <img src="https://raw.githubusercontent.com/avinashalapati09/portfolio/main/project2/image2.png" width="40" height="40" /> &nbsp; Problem Statement:
+### <img src="https://raw.githubusercontent.com/avinashalapati09/portfolio/main/MovieRecommendation/image2.png" width="40" height="40" /> &nbsp; Problem Statement:
 
 Recommendation Systems are a type of information filtering systems as they improve the quality of search results and provides items that are more relevant to the search item or are related to the search history of the user.
 <br/>They are used to predict the rating or preference that a user would give to an item. Almost every major tech company has applied them in some form or the other. Major companies like YouTube, Amazon, Netflix use recommendation systems in social and e- commerce sites use recommendation system for its users to suggest for an individual according to their requirement more precise and accurate. These online content and service providers have a huge amount of content so the problem which arises is which data is required for whom so the problem of providing apposite content frequently. This project represents the overview and approaches of techniques generated in a recommendation system.
 <br/>The goal of this project is to provide a recommendation system for video content providers to predict whether someone will enjoy a movie based on how much they liked or disliked other movies.
 
-### <img src="https://raw.githubusercontent.com/avinashalapati09/portfolio/main/project2/image3.png" width="40" height="40" />&nbsp; Recommendation System Types
+### <img src="https://raw.githubusercontent.com/avinashalapati09/portfolio/main/MovieRecommendation/image3.png" width="40" height="40" />&nbsp; Recommendation System Types
 
-<img width="581" alt="image" src="https://raw.githubusercontent.com/avinashalapati09/portfolio/main/project2/image4.png">
+<img width="581" alt="image" src="https://raw.githubusercontent.com/avinashalapati09/portfolio/main/MovieRecommendation/image4.png">
    
-### <img src="https://raw.githubusercontent.com/avinashalapati09/portfolio/main/project2/image5.png" width="40" height="40" /> &nbsp; Dataset
+### <img src="https://raw.githubusercontent.com/avinashalapati09/portfolio/main/MovieRecommendation/image5.png" width="40" height="40" /> &nbsp; Dataset
 
 The credits dataset contains the following features:-
  - movie_id - A unique identifier for each movie.
@@ -40,14 +40,14 @@ The Movie dataset has the following features
  - vote_average - average ratings the movie recieved.
  - vote_count - the count of votes recieved.
 
-### <img src="https://raw.githubusercontent.com/avinashalapati09/portfolio/main/project2/image6.png" width="40" height="40" />&nbsp; Approach
-<img width="810" alt="image" src="https://raw.githubusercontent.com/avinashalapati09/portfolio/main/project2/image7.png">
+### <img src="https://raw.githubusercontent.com/avinashalapati09/portfolio/main/MovieRecommendation/image6.png" width="40" height="40" />&nbsp; Approach
+<img width="810" alt="image" src="https://raw.githubusercontent.com/avinashalapati09/portfolio/main/MovieRecommendation/image7.png">
 
-<img width="810" alt="image" src="https://raw.githubusercontent.com/avinashalapati09/portfolio/main/project2/image8.png">
+<img width="810" alt="image" src="https://raw.githubusercontent.com/avinashalapati09/portfolio/main/MovieRecommendation/image8.png">
 
-<img width="839" alt="image" src="https://raw.githubusercontent.com/avinashalapati09/portfolio/main/project2/image9.png">
+<img width="839" alt="image" src="https://raw.githubusercontent.com/avinashalapati09/portfolio/main/MovieRecommendation/image9.png">
 
-### <img src="https://raw.githubusercontent.com/avinashalapati09/portfolio/main/project2/image10.png" width="40" height="40" />&nbsp; Conclusion
+### <img src="https://raw.githubusercontent.com/avinashalapati09/portfolio/main/MovieRecommendation/image10.png" width="40" height="40" />&nbsp; Conclusion
 - The Recommendation system is a very powerful technology which helps people to find what they like. 
 - If we take Collaborative Filtering as an example, then we find it is most successful and powerful algorithm.
 - Hybrid movie recommendation systems can take advantage of content- based and collaborative filtering as the two approaches are proved to be the best approach. 
