@@ -32,7 +32,7 @@ Link: https://github.com/avinashalapati09/portfolio/tree/main/StockMarket
 # Project 4: HousingMarket
 Description: redicting the housing market involves considering various factors such as economic indicators, interest rates, population growth, employment rates, and government policies. The Model will give prediction on House Market prices over a period of years.
 
-Link: https://github.com/avinashalapati09/portfolio/tree/main/Houseproject
+Link: https://github.com/avinashalapati09/portfolio/tree/main/HousingProject
 
 # Project 5: AppointmentNoShow
 Description: The project explains Appointments misses for patients scheduled for consultations.
