@@ -1,0 +1,2 @@
+# Project: Patients No Show Appointments
+Patients’ no-shows, scheduled but unattended medical appointments, have a direct negative impact on patients’ health, due to discontinuity of treatment and late presentation to care. They also lead to inefficient use of medical resources in hospitals and clinics. The ability to predict a likely no-show in advance could enable the design and implementation of interventions to reduce the risk of it happening, thus improving patients’ care and clinical resource allocation

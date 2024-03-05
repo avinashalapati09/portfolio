@@ -1,3 +1,9 @@
+
+# Project: AirlineSafetyPrediction
+
+This project aims to assure the audience about airline safety through a 3-minute presentation, blog post, and executive presentation. The diliverables of this project were ensured through a Power BI dashboard explaining the data behind multiple incidences. Furthermore, this project aims to show how the public can be notified.
+
+
 # Airline Safety
 
 This folder contains the data behind the story [Should Travelers Avoid Flying Airlines That Have Had Crashes in the Past?](http://fivethirtyeight.com/features/should-travelers-avoid-flying-airlines-that-have-had-crashes-in-the-past/)
